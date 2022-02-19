@@ -1,5 +1,6 @@
 ﻿using System;
-namespace consoleSugoroku.prg
+
+namespace sugoroku.prg
 {
     public class Player
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace consoleSugoroku.prg
+namespace sugoroku.prg
 {
     public class Common
     {

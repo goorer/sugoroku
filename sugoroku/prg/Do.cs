@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading;
 
-namespace consoleSugoroku.prg
+namespace sugoroku.prg
 {
     public class Do
     {

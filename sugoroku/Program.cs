@@ -1,4 +1,5 @@
 ﻿using System;
+using sugoroku.prg;
 
 namespace sugoroku
 {
@@ -6,7 +7,8 @@ namespace sugoroku
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Do.InputPlayer();
+            Do.PlayGame();
         }
     }
 }
